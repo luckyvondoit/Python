@@ -6,3 +6,4 @@
 
 ## 要点
 * [Python 函数装饰器--评论中讲解更通俗易懂](https://www.runoob.com/w3cnote/python-func-decorators.html)
+* [单例模式以及Python实现](https://www.jianshu.com/p/6a1690f0dd00)
