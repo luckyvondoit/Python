@@ -3,6 +3,7 @@
 * [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 * [Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 * [Python3教程](https://www.runoob.com/python3/python3-tutorial.html)
+* [pyzh](https://pyzh.readthedocs.io/en/latest/)
 
 ## 要点
 * [Python 函数装饰器--评论中讲解更通俗易懂](https://www.runoob.com/w3cnote/python-func-decorators.html)
