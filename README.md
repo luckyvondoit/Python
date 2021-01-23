@@ -11,3 +11,4 @@
 * [python类的静态方法和类方法区别](https://github.com/pythonpeixun/article/blob/master/python/python_classmethod_staticmethod.md#先看语法python-类语法中有三种方法实例方法静态方法类方法)
 * [Python中如何拷贝一个对象？（赋值、深拷贝、浅拷贝的区别）](https://blog.csdn.net/xinyuski/article/details/84238688)
 * [__str__ 与 __repr__ 到底有什么差别](https://baijiahao.baidu.com/s?id=1596817611604972751&wfr=spider&for=pc)
+* [通过 Python 理解 Mixin 概念](https://zhuanlan.zhihu.com/p/95857866)
